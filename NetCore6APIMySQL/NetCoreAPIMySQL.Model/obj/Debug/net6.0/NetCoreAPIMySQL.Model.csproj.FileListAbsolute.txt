@@ -1,0 +1,12 @@
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\bin\Debug\net6.0\NetCoreAPIMySQL.Model.deps.json
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\bin\Debug\net6.0\NetCoreAPIMySQL.Model.dll
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\bin\Debug\net6.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.csproj.AssemblyReference.cache
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.AssemblyInfoInputs.cache
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.AssemblyInfo.cs
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.dll
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\refint\NetCoreAPIMySQL.Model.dll
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\Álvaro\source\repos\NetCore6APIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\ref\NetCoreAPIMySQL.Model.dll
